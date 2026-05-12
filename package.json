@@ -2,7 +2,7 @@
   "name": "child-trait-analysis",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_ID.github.io/child-trait-analysis",
+  "homepage": "https://munsmile.github.io/child-trait-analysis",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
