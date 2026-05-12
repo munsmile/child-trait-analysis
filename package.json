@@ -1,0 +1,23 @@
+{
+  "name": "child-trait-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://YOUR_GITHUB_ID.github.io/child-trait-analysis",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {
+    "gh-pages": "latest"
+  }
+}
